@@ -1,0 +1,1 @@
+build: cd js && yarn install && yarn bootstrap && yarn build  
